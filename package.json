@@ -1,0 +1,11 @@
+{
+  "name": "kfelix",
+  "version": "1.0.0",
+  "description": "portfolio-splash page",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello grunt"
+  },
+  "author": "viktortorr",
+  "license": "ISC"
+}
